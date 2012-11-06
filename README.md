@@ -1,4 +1,4 @@
-tutorial_java_swing_frames
+Theyseemecodin.com - Java GUI - Swing: frames and basic elements
 ==========================
 
-Theyseemecodin.com tutorial on Java swing - creating basic frames and elements
+Tutorial on Java swing - creating basic frames and elements
